@@ -1,4 +1,6 @@
 __pycashe__/
+*.pyc
 .pytest_cashe/
 venv/
 .coverage
+.gitignore
